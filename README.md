@@ -1,7 +1,7 @@
-# React Admin Dashboard
+# React Intune Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+Original build by ed-roh  COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+Created and amended scripts to show Intune data in a dashboard.
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Only just learning React, please be kind.
